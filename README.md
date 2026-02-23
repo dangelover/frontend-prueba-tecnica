@@ -4,25 +4,6 @@ Aplicación de e-commerce desarrollada con **React + TypeScript** que permite vi
 
 ---
 
-## 🚀 Demo
-
-🔗 Deploy: https://tu-demo.vercel.app  
-(Actualizar con tu enlace real)
-
----
-
-## 📸 Screenshots
-
-### 🏠 Página principal
-
-![Home Screenshot](./screenshots/home.png)
-
-### 🛒 Carrito
-
-![Cart Screenshot](./screenshots/cart.png)
-
----
-
 ## 🧱 Tecnologías utilizadas
 
 - ⚛️ React 18
@@ -175,8 +156,9 @@ Herramientas:
 ## 🧑‍💻 Autor
 
 Kevin Castro Campos
-GitHub: https://github.com/dangelover
-LinkedIn: https://www.linkedin.com/in/kevin-castro-campos/
+
+- GitHub: https://github.com/dangelover
+- LinkedIn: https://www.linkedin.com/in/kevin-castro-campos/
 
 ---
 
