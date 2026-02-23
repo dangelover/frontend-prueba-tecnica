@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Cuenta de Ahorro Digital",
+    "price": 200,
+    "category": "Cuenta",
+    "image": "credito2.png"
+  },
+  {
+    "id": 2,
+    "title": "Cuenta Corriente Premium",
+    "price": 300,
+    "category": "Cuenta",
+    "image": "credito2.png"
+  },
+  {
+    "id": 3,
+    "title": "Crédito Personal",
+    "price": 10000,
+    "category": "Crédito",
+    "image": "credito2.png"
+  },
+  {
+    "id": 4,
+    "title": "Crédito Hipotecario",
+    "price": 150000,
+    "category": "Crédito",
+    "image": "credito2.png"
+  },
+  {
+    "id": 5,
+    "title": "Crédito Vehicular",
+    "price": 25000,
+    "category": "Crédito",
+    "image": "credito2.png"
+  },
+  {
+    "id": 6,
+    "title": "Tarjeta de Crédito Clásica",
+    "price": 400,
+    "category": "Tarjeta",
+    "image": "credito2.png"
+  },
+  {
+    "id": 7,
+    "title": "Tarjeta de Crédito Oro",
+    "price": 500,
+    "category": "Tarjeta",
+    "image": "credito2.png"
+  },
+  {
+    "id": 8,
+    "title": "Tarjeta de Crédito Platinum",
+    "price": 600,
+    "category": "Tarjeta",
+    "image": "credito2.png"
+  },
+  {
+    "id": 9,
+    "title": "Cuenta Sueldo",
+    "price": 700,
+    "category": "Cuenta",
+    "image": "credito2.png"
+  },
+  {
+    "id": 10,
+    "title": "Crédito Empresarial",
+    "price": 50000,
+    "category": "Crédito",
+    "image": "credito2.png"
+  }
+]
