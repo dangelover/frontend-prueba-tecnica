@@ -31,7 +31,7 @@ const ProductCard: React.FC<Props> = ({ product }) => {
       className="border rounded-lg p-4 m-2 flex flex-col items-center shadow hover:shadow-md transition"
     >
       <img
-        src={`/src/image/icons/${product.image}`}
+        src={new URL(`../image/icons/${product.image}`, import.meta.url).href}
         alt={product.title}
         className="w-32 h-32 object-contain mb-2"
       />
